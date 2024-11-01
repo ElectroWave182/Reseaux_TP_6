@@ -1,0 +1,32 @@
+Étape 1 : Examen du réseau
+---------
+
+1)
+Il y a 5 systèmes reliant un ou plusieurs routeurs, donc 5 réseaux.
+
+2)
+R1 -> 2
+R2 -> 3
+R3 -> 2
+
+Attention, ces problèmes ne sont pas tout à fait modélisables par graphe !
+
+3)
+Il s'agit du nombre de réseaux indirectement connectés au routeur en question,
+soit la différence entre le nombre de réseaux total de la composante connexe
+et le nombre de réseaux directement connectés à ce même routeur.
+
+R1 -> 5 - 2 = 3
+R2 -> 5 - 3 = 2
+R3 -> 5 - 2 = 3
+
+4)
+Je ... eh ... c'est ... impossible ... masaka !
+(on a pas mis de route, mais c'est rincé de toute façon)
+
+
+Étape 2 : Configurer les itinéraires statiques et par défaut
+---------
+
+2)
+Je n'ai aucun talent.

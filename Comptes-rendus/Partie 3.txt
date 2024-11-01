@@ -1,0 +1,21 @@
+Etape 1 : Calcul des itinéraires résumés
+---------
+
+b)
+Le masque est 255.255.255.192, soit / 26.
+
+c)
+10101100.00010110.00000001.10000000 / 26
+
+d)
+172.22.1.128 / 26
+
+
+Etape 2 : Calcul des itinéraires résumés
+---------
+
+a)
+Pareil qu'à l'étape 1
+
+b)
+172.31.157.0 / 25
